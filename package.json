@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "fetch": "^1.0.1",
+    "ntlm-client": "git+https://github.com/Faruktulumcu/ntlm-client.git"
+  },
+  "description": "Library to Help with non-Basic Authentication methods with ews-javascript-api package",
+  "devDependencies": {
+    "@types/bluebird": "^3.0.36",
+    "@types/node": "^6.0.52"
+  },
+  "directories": {},
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "ews-javascript-api-auth",
+  "optionalDependencies": {},
+  "version": "1.2.1"
+}
